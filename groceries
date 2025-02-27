@@ -6,7 +6,11 @@ class Program
         string[] groceries = { "Milk", "Bread", "Eggs", "Apples", "Rice" };
         foreach (var item in groceries) {
             Console.WriteLine(item);
+2nd
+ Console.Writeline("juice");       
+
 Console.Writeline("Banana");       
+main
 
 }
     }
